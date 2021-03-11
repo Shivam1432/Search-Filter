@@ -1,0 +1,40 @@
+.t2 {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  background-color: lightgrey;
+  width:21%;
+}
+.t1{
+    font-family: arial, sans-serif;
+  border-collapse: collapse;
+  text-align: left;
+  padding: 8px;
+  border:1px;
+  width:21%;
+  background-color: lightgrey;
+}
+.i1{
+    width:21%;
+    padding:5px;
+}
+.div1{
+overflow-y: auto;
+height: 300px;
+}
+.d1{
+overflow-y: auto;
+}
+.td1 {
+  border: 1px solid lightgrey;
+  text-align: left;
+  padding: 8px;
+}
+.th1{
+    border: 1px solid lightgrey;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color :gray;
+}
